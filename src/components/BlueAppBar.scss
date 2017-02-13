@@ -1,0 +1,13 @@
+$best-dark-blue: #144173;
+$white: #fff;
+
+.appBar {
+  background-color: $best-dark-blue;
+
+  > svg {
+    width: 6rem;
+    height: 6rem;
+    margin-right: 1rem;
+    fill: $white;
+  }
+}
